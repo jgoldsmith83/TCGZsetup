@@ -1,0 +1,6 @@
+Check for Windows 10 Update - explorer ms-settings:windowsupdate-action
+https://www.tenforums.com/windows-updates-activation/56099-launch-windows-update-command-line.html
+
+Activate Windows 10 - type slmgr.vbs /ipk <KmsKey>
+
+Wise package studio
